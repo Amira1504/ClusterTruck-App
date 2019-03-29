@@ -1,0 +1,14 @@
+
+.YourGroups h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+.YourGroups h2 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 90;
+  overflow: hidden;
+  line-height: 1.3;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
